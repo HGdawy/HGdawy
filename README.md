@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hussien Gdawy</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software engnier </h3>
 
 - 🔭 I’m currently working on [Opleg legal practice management software](Opleg.com)
 
-- 🌱 I’m currently learning *CI&CD PIPELINE*
+- 🌱 I’m currently learning *deep learning & NLP and LLMs*
 
-- 💬 Ask me about *React & Redux and Angular*
+- 💬 Ask me about *full stack development*
 
 - 📫 How to reach me **https://www.linkedin.com/in/hussien-gdawy**
 
